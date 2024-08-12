@@ -14,5 +14,6 @@ Want to improve this app? Fork the repo, make your changes, and submit a PR!
 ## 📬 Get in Touch
 
 - **GitHub:** [https://github.com/Fahadqureshi0/Fahad-Qureshi]
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **Email:** [Qureshifahad984@gmial.com]
+  
 
